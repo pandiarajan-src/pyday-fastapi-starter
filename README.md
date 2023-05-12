@@ -1,5 +1,10 @@
 This repository includes a very simple Python FastAPI HTTP API, made for demonstration purposes only.
 
+## Thanks & Credits
+> This sample is a learning excercise from Microsoft Reactor Pyday talk.
+> Thanks to Pamela Fox
+> you can refer more details here: `https://pamelafox.github.io/my-py-talks/`
+
 ## Local development
 
 1. Open this repository in Github Codespaces or VS Code with Remote Dev Containers extension.
